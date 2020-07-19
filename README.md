@@ -1,4 +1,4 @@
-# 03 JavaScript: Password Generator
+# Password Generator
 
 This application was created as a way for an end user to generate a random, secure password based on the criteria that they select.
 
@@ -28,3 +28,5 @@ lower.addEventListener("checked",function changeUpper(){
 
 The original homework asked for prompts instead of a modal but that UX seems a little outdated and linear. This way a user can make a decision, see it in real time, and when they are happy with their option they can generate an immediate result rather than going through the whole process.
 Also I wanted to challenge myself a little bit. :)
+
+<img width="854" alt="passwordgenerator" src="https://user-images.githubusercontent.com/64652517/87865783-20e59800-c947-11ea-9686-6a4a0b8a1035.png">
